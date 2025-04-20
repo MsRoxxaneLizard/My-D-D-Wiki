@@ -3,7 +3,7 @@
 ---
 
 # Wiki Homepage #
-This is the homepage for the campaign. The world is set in [[Cascarnia\|Cascarnia]] in the calendar year of 3279
+This is the homepage for the campaign. The world is set in [[Cascarnia\|Cascarnia]] in the calendar year of 3279.
 
 
 
