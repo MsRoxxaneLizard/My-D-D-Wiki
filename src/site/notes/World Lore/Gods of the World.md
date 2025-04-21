@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-lore/gods-of-the-world/","tags":["Gods","gods","goddesses","Goddesses"]}
+{"dg-publish":true,"permalink":"/world-lore/gods-of-the-world/","tags":["Gods","gods","goddesses","Goddesses","god","God"]}
 ---
 
 In [[Cascarnia\|Cascarnia]] there are many gods and goddesses that are or were worshipped throughout the land. Each god has certain flaws or ideals and help out those who worship them if they choose.
@@ -7,8 +7,8 @@ In [[Cascarnia\|Cascarnia]] there are many gods and goddesses that are or were w
 ## The Good Gods
 These are some of the gods and goddesses that are generally considered to have good intentions. If you are caught worshipping these gods people don't look down upon you, but in certain cities or regions the worship is banned. These gods all have lamb sacrifices during [[World Systems/Newdas\|Newdas]].
 
->[[Greshka\|Greshka]]
->[[Milweq\|Milweq]]
+>[[World Lore/Greshka\|Greshka]]
+>[[World Lore/Milweq\|Milweq]]
 >[[Triquyten\|Triquyten]]
 >[[Cenca\|Cenca]]
 >[[Doubrostrait\|Doubrostrait]]
