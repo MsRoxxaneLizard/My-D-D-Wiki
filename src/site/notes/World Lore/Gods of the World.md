@@ -7,22 +7,21 @@ In [[Cascarnia\|Cascarnia]] there are many gods and goddesses that are or were w
 ## The Good Gods
 These are some of the gods and goddesses that are generally considered to have good intentions. If you are caught worshipping these gods people don't look down upon you, but in certain cities or regions the worship is banned. These gods all have lamb sacrifices during [[World Systems/Newdas\|Newdas]].
 
->Greshka
->Milweq
->Triquyten
->Cenca
->Doubrostrait
->Wincreke
->Staoplun
-
+>[[Greshka\|Greshka]]
+>[[Milweq\|Milweq]]
+>[[Triquyten\|Triquyten]]
+>[[Cenca\|Cenca]]
+>[[Doubrostrait\|Doubrostrait]]
+>[[Wincreke\|Wincreke]]
+>[[Staoplun\|Staoplun]]
 
 ## The Bad Gods
 These gods are generally considered to be evil and public worship is outlawed. If you were to worship this and get caught there would be major repercussions and possible death. These gods also usually accept the [[World Systems/Newdas\|Newdas]] sacrifices.
 
->Roshken
->Vladice
->Magniwar
->Grougikep
->Sinshuvab
->Ottocratck
->Cuxeno
+>[[Roshken\|Roshken]]
+>[[Vladice\|Vladice]]
+>[[Magniwar\|Magniwar]]
+>[[Grougikep\|Grougikep]]
+>[[Sinshuvab\|Sinshuvab]]
+>[[Ottocratck\|Ottocratck]]
+>[[Cuxeno\|Cuxeno]]
